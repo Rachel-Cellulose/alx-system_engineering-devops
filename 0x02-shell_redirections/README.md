@@ -1,1 +1,1 @@
-script that creates a file named exactly this, containing the text Best School
+It is a good file that cuts iron without making a noise
