@@ -1,1 +1,1 @@
- Do not just count your directories, make your directories count
+script that counts the number of directories and sub-directories in the current directory
